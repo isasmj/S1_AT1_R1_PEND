@@ -1,0 +1,22 @@
+/* BASE */
+@import url("./base/reset.css");
+
+/* LAYOUTS */
+@import url("./layout/header.css");
+@import url("./layout/grid.css");
+@import url("./layout/footer.css");
+
+/* SECTIONS */
+@import url("./sections/hero.css");
+@import url("./sections/features.css");
+@import url("./sections/why_us.css");
+@import url("./sections/about.css");
+@import url("./sections/company.css");
+@import url("./sections/services.css");
+@import url("./sections/global.css");
+
+
+/* COMPONENTS */
+@import url("./components/buttons.css");
+
+@import url("./media.css");
